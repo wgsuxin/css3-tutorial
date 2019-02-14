@@ -1,6 +1,6 @@
 # CSS3 Tutorial 《CSS3 教程》
 
-CSS3 Tutorial 是一本关于 CSS3 的开源书。利用业余时间写了本书，图文并茂，用大量实例带你一步一步走进 CSS3 的世界。如有疏漏欢迎指正，欢迎提问。感谢您的参与！
+本项目Fork自https://github.com/waylau/css3-tutorial，添加了演示链接，修复部分教程链接问题，个别页面内容进行了调整了。CSS3 Tutorial 是一本关于 CSS3 的开源书。利用业余时间写了本书，图文并茂，用大量实例带你一步一步走进 CSS3 的世界。如有疏漏欢迎指正，欢迎提问。感谢您的参与！
  
 ### Get Started 如何开始阅读
 
