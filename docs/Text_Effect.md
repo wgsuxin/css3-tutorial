@@ -38,4 +38,4 @@ CSS3中，自动换行属性允许您强制文本换行 - 即使这意味着分�
 ## 源码
 
 本文中所用例子源码参见
-<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 texteffects.html
+<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 texteffects.html，[点击查看演示](https://wgsuxin.github.io/css3-tutorial/samples/texteffects.html)
