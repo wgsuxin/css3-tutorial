@@ -86,4 +86,4 @@ outline-offset 属性对轮廓进行偏移，并在超出边框边缘的位置�
 ## 源码
 
 本文中所用例子源码参见
-<https://github.com/waylau/css3-tutorial> 中 `samples` 目录下的 userinterface.html
+<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 userinterface.html
