@@ -1,6 +1,6 @@
-# Summary
+# 教程目录
 
-This is the summary of my book.
+以下为目录列表，每一项讨论一个知识点，可根据个人知识储备依次学习或仅查看某一项
 
 * [介绍](docs/Introduction.md)
 * [动画](docs/Animation.md)
