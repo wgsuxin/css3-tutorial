@@ -4,9 +4,7 @@
  
 ### Get Started 如何开始阅读
 
-选择下面入口之一：
-
-* <https://github.com/wgsuxin/css3-tutorial/> 的 [SUMMARY.md](SUMMARY.md)（源码）
+* 请点击 [SUMMARY.md](SUMMARY.md)开始
  
 ### Code 源码
 
