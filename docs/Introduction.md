@@ -172,7 +172,7 @@ selector {property: value;}
 ## 源码
 
 本文中所用例子源码参见
-<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 important.html、priority_rules.html
+<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 important.html、priority_rules.html，[点击查看演示1](https://wgsuxin.github.io/css3-tutorial/samples/important.html)，[点击查看演示2](https://wgsuxin.github.io/css3-tutorial/samples/priority_rules.html)
 
 ## 参考
 * <http://www.nowamagic.net/csszone/css_SeletorPriorityRules.php>
