@@ -86,7 +86,7 @@ matrix 方法有六个参数，包含旋转，缩放，移动（平移）和倾�
 ## 源码
 
 本文中所用例子源码参见
-<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 2d_transform.html
+<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 2d_transform.html，[点击查看演示](https://wgsuxin.github.io/css3-tutorial/samples/2d_transform.html)
 
 ## 参考
 * <http://www.zhangxinxu.com/wordpress/2012/06/css3-transform-matrix-%E7%9F%A9%E9%98%B5/>
