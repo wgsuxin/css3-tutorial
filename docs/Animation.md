@@ -70,4 +70,4 @@ Chrome 和 Safari 需要前缀 -webkit-。
 ## 源码
 
 本文中所用例子源码参见
-<https://github.com/waylau/css3-tutorial> 中 `samples` 目录下的 animation.html、animation_2.html
+<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 animation.html、animation_2.html
