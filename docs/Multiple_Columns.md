@@ -32,4 +32,4 @@ CSS3 多列再需要设计多个布局时是非常有用的。比如，报纸布
 ## 源码
 
 本文中所用例子源码参见
-<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 multiple_columns.html
+<https://github.com/wgsuxin/css3-tutorial> 中 `samples` 目录下的 multiple_columns.html，[点击查看演示](https://wgsuxin.github.io/css3-tutorial/samples/multiple_columns.html)
