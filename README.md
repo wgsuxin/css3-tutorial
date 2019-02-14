@@ -4,7 +4,7 @@
  
 ### Get Started 如何开始阅读
 
-* 请点击 [SUMMARY.md](SUMMARY.md)开始
+* 请点击 [SUMMARY.md](SUMMARY.md) 选择相应内容开始学习
  
 ### Code 源码
 
